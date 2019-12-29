@@ -1,4 +1,4 @@
-# BloomyIQ
+# Intro
 
 Welcome to BloomyIQ, we connect digital content producers with leading OTT Platforms and help each content producer better understand and connect with their audiences across the connected device ecosystem. 
 
